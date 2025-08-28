@@ -1,0 +1,15 @@
+{
+  "name": "subbu553-calculator",
+  "version": "1.0.0",
+  "description": "This is a calculator Module developed during NodeJs Course by Scaler Topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subbu",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "subbu553-calculator": "^1.0.0"
+  }
+}

@@ -1,14 +1,3 @@
-// console.log("Hi ")
-
-// function sayHi(){
-//     console.log("hello")
-// }
-// sayHi()
-
-
-console.log('This is a test file.');
-const calculator=require('./cals')
-calculator.addition(1,5)
-calculator.subtraction(5,6)
-calculator.multiplication(4,9)
-calculator.division(8,2)
+import { addition } from 'subbu553-calculator'
+const sum=addition(1,5)
+console.log(sum)
